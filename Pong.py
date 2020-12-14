@@ -2,7 +2,7 @@
 Tyson Suttle (Tyson910)
 CSC 131
 10.31.18
-HW 5 create ping pong program
+create ping pong program
 '''
 
 from tkinter import *
